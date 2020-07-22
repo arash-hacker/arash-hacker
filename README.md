@@ -1,7 +1,2 @@
 
-
-
-:mailbox_with_no_mail: arshiamidos [at] gmail [dot] com
-
-:office: https://arshiamidos.github.io
-
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=arshiamidos&&show_icons=true&theme=tokyonight)](https://arshiamidos.github.io)
