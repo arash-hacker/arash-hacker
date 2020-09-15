@@ -63,7 +63,11 @@
 </p>
 
 <p align="center">
-    
+
+<a href="https://arshiamidos.github.io" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" alt="@arshiamidos" height="20" width="20" />
+</a>
+
 <a href="https://medium.com/@arashmidos" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
