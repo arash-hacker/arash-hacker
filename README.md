@@ -65,7 +65,7 @@
 <p align="center">
 
 <a href="https://arshiamidos.github.io" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/glob.svg" alt="@arshiamidos" height="20" width="20" />
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
 
 <a href="https://medium.com/@arashmidos" target="blank">
