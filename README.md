@@ -15,9 +15,6 @@
 <img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
-
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 
 <img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
@@ -41,6 +38,7 @@
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
 
 <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
 
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
