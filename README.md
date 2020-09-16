@@ -17,8 +17,8 @@
 </a>    
 
     
-<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
-<img src="https://raw.githubusercontent.com/Arshiamidos/arshiamidos/master/1.gif">[![GitHub Status](https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&theme=dark)](https://arshiamidos.github.io)      
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50%">
+[![GitHub Status](https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&theme=dark)](https://arshiamidos.github.io)      
 
 
 
