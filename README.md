@@ -9,7 +9,7 @@
 <p>
 
 
-<a href="https://arshiamidos.github.io">
+<a href="https://arshiamidos.github.io" align="center">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=9&theme=onedark"/>
     </p>
