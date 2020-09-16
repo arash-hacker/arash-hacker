@@ -16,9 +16,8 @@
 <a align="center" href="https://arshiamidos.github.io">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&layout=compact&theme=dark" />
-
 </a>    
-[![GitHub Status](https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&layout=compact&theme=dark)](https://arshiamidos.github.io)  
+
     
 
 
