@@ -9,9 +9,9 @@
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true)](https://arshiamidos.github.io)
-</div>
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true"/>
+</p>
 <a href="https://arshiamidos.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
