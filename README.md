@@ -9,9 +9,9 @@
 <p>
 
 
-<a href="https://arshiamidos.github.io" align="center">
+<a href="https://arshiamidos.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=9&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
     </p>
 </a>
 <!-- My GitHub stats with buefy theme ❤️ -->
