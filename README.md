@@ -9,6 +9,7 @@
     </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true)](https://arshiamidos.github.io)
 
 <a href="https://arshiamidos.github.io">
