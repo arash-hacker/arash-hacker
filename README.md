@@ -7,7 +7,7 @@
 
 
 <a href="https://arshiamidos.github.io">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=8&theme=onedark"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=9&theme=onedark"/>
 </a>
 
 <a align="center" href="https://arshiamidos.github.io"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" />
