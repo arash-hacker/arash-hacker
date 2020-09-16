@@ -15,7 +15,7 @@
 
 <a align="center" href="https://arshiamidos.github.io">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" />
-<img width="40%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&layout=compact&theme=dark" />
+<img width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&layout=compact&theme=dark" />
 </a>    
 
     
