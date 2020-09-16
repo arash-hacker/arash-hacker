@@ -10,13 +10,10 @@
 
 
 <a href="https://arshiamidos.github.io">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=9&theme=onedark"/>
+    <p align="center">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=9&theme=onedark"/>
+    </p>
 </a>
-
-<a align="center" href="https://arshiamidos.github.io">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" />
-<img width="40%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&layout=compact&theme=dark" />
-</a> 
 <!-- My GitHub stats with buefy theme ❤️ -->
 <a align="center" href="https://arshiamidos.github.io">
 <p align="center">
