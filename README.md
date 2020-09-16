@@ -1,6 +1,6 @@
 <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey ,My Name is Arash(آرش).
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey ,My Name is Arash.
 </h1>
 <p align="center">
 <a href="https://arshiamidos.github.io">
@@ -13,11 +13,13 @@
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=9&theme=onedark"/>
 </a>
 
-<a align="center" href="https://arshiamidos.github.io"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" />
+<a align="center" href="https://arshiamidos.github.io">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&layout=compact&theme=dark" />
+
 </a>    
-
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&theme=dark)](https://arshiamidos.github.io)      
+[![GitHub Status](https://github-readme-stats.vercel.app/api/top-langs?username=arshiamidos&layout=compact&theme=dark)](https://arshiamidos.github.io)  
+    
 
 
 
