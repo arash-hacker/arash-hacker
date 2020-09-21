@@ -1,6 +1,8 @@
 <a href="https://arshiamidos.github.io">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="30" height="30"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1460495732/348/sonic_waiting.gif?1460495732" width="30" height="30"/> 
 </a>
 <p align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="30" height="30"/>
@@ -31,9 +33,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif?1450458551" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1512661804/3258/a-parrot.gif?1512661804" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1460495732/348/sonic_waiting.gif?1460495732" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450451879/172/knuckles.gif?1450451879" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1487860751/1784/sickred-mario.gif?1487860751" width="25" height="25"/> 
@@ -43,39 +42,8 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif?1450319445" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif?1490884029" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif?1460579188" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="25" height="25"/> 
 </p>
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
-
-
 
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
