@@ -1,8 +1,5 @@
 <a href="https://arshiamidos.github.io">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1460495732/348/sonic_waiting.gif?1460495732" width="50" height="50"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="50" height="50"/> 
 </a>
 <p align="center">
