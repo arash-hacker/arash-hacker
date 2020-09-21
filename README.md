@@ -25,6 +25,29 @@
     </p>
 </a>
 
+<p align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif?1450458551" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1512661804/3258/a-parrot.gif?1512661804" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1460495732/348/sonic_waiting.gif?1460495732" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450451879/172/knuckles.gif?1450451879" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1487860751/1784/sickred-mario.gif?1487860751" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1487860517/1783/sickyellow-mario.gif?1487860517" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1487860475/1782/sickblue-mario.gif?1487860475" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450452707/176/sonic-dance.gif?1450452707" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif?1450319445" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif?1490884029" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif?1460579188" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="25" height="25"/> 
+</p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -84,31 +107,8 @@
 </p>
 
 
-<p align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif?1450458551" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1597609860/10080/headbanging_parrot.gif?1597609860 width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1512661804/3258/a-parrot.gif?1512661804" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1460495732/348/sonic_waiting.gif?1460495732" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450451879/172/knuckles.gif?1450451879" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1487860751/1784/sickred-mario.gif?1487860751" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1487860517/1783/sickyellow-mario.gif?1487860517" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1487860475/1782/sickblue-mario.gif?1487860475" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450452707/176/sonic-dance.gif?1450452707" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif?1450319445" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif?1490884029" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif?1460579188" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="25" height="25"/> 
 
-</p>
+
 <p align="center">
 
 <a href="https://arshiamidos.github.io" target="blank">
