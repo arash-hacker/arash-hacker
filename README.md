@@ -1,5 +1,5 @@
 <!-- top left -->
-<a href="#" click="alert()">
+<a href="#" onClick="alert()">
     <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/> &nbsp &nbsp
     <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="50" height="50"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="60" height="60"/> 
