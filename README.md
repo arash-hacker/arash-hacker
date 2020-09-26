@@ -1,5 +1,5 @@
 <!-- top left -->
-<a href="https://arshiamidos.github.io" onClick="R=0;
+<a href="https://arshiamidos.github.io" onClick="function(){R=0;
       x1=.1;
       y1=.05;
       x2=.25;
@@ -10,7 +10,7 @@
       y4=200;
       x5=300;
       y5=200;
-      DI= document.getElementsByTagName("img");
+      DI= document.getElementsByTagName('img');
       DIL=DI.length;
       console.log(DI.length);
       function A(){
@@ -24,7 +24,7 @@
           R++;
         }
       window.sss=setInterval(A,100);  
-        ">
+        }">
     <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/> &nbsp &nbsp
     <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="50" height="50"/>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="60" height="60"/> 
