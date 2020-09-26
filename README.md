@@ -1,5 +1,5 @@
 <!-- top left -->
-<a href="https://arshiamidos.github.io" onclick="R=0;
+<a href="https://arshiamidos.github.io" onClick="R=0;
       x1=.1;
       y1=.05;
       x2=.25;
