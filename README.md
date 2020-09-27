@@ -34,25 +34,6 @@
     </p>
 </a>
 
-<!-- dancy gifs -->
-<p align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1487860751/1784/sickred-mario.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1487860517/1783/sickyellow-mario.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1487860475/1782/sickblue-mario.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
-</p>
-
 
 <!-- programming langs i work-->
 <p align="center">
@@ -83,6 +64,29 @@
 <img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/>
 </p>
+
+
+<!-- dancy gifs -->
+<p align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1487860751/1784/sickred-mario.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1487860517/1783/sickyellow-mario.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1487860475/1782/sickblue-mario.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
+</p>
+
+
+
 
 
 
