@@ -1,8 +1,6 @@
 <!-- top left -->
 <a href="#" click="alert()">
-    <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/> &nbsp &nbsp
-    <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="50" height="50"/>&nbsp &nbsp
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif?1531849353" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
 </a>
 
 <!-- first row -->
@@ -80,8 +78,8 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1487860517/1783/sickyellow-mario.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1487860475/1782/sickblue-mario.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif" width="25" height="25"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
 
