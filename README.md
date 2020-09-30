@@ -71,7 +71,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
