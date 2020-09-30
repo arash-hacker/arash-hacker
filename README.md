@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(180deg, rgba(9,9,121,1) 10%, rgba(255,255,255,1) 100%); ">
+<div style="background: red ">
 <!-- top left -->
 <a href="#" click="alert()">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
