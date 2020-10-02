@@ -65,7 +65,7 @@
 </p>
 
 
-<!-- dancy gifs -->
+<!-- dancy gifs 
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
@@ -78,7 +78,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
-
+-->
 
 
 
