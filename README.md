@@ -98,6 +98,9 @@
 <a href="https://twitter.com/arshiamidos" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshiamidos" height="20" width="20" />
 </a>
+<a href="https://twitch.tv/arshiamidos" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="arshiamidos" height="20" width="20" />
+</a>
 <a href="https://www.reddit.com/user/arshiamidos" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="arshiamidos" height="20" width="20" />
 </a>
@@ -106,6 +109,9 @@
 </a>
 <a href="https://gitlab.com/arshiamidos" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
+</a>
+<a href="https://t.me/arshiamidos" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 <a href="https://t.me/arshiamidos" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
