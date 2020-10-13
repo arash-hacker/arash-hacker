@@ -1,8 +1,8 @@
 <div style="background: green ">
 <!-- top left -->
-<div style="display:flex;justify-content:center;align-items:space-between;width:100%">
+<div>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
 
 <!-- first row -->
