@@ -105,6 +105,9 @@
 <a href="https://www.reddit.com/user/arshiamidos" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="arshiamidos" height="20" width="20" />
 </a>
+<a href="https://www.discord.com/channels/784013344561561630" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="arshiamidos" height="20" width="20" />
+</a>
 <a href="https://github.com/arshiamidos" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
 </a>
