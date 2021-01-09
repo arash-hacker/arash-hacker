@@ -37,7 +37,7 @@
 
 <!-- programming langs i work-->
 <p align="center">
-<img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" width="25px" height="25px"/>
