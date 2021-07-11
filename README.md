@@ -119,12 +119,12 @@
 </a>
 <a href="https://open.spotify.com/user/27nmzpwwd5wwhxvirwxb7cnk0?si=yDCPfpUPRjiIQRtBJr0LfQ" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://www.chess.com/member/arshiamidos890" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecast.svg" alt="arshiamidos" height="20" width="20" />
-</a>    
+</a> 
 <a href="https://soundcloud.com/arashmidos-arash" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arshiamidos" height="20" width="20" />
 </a>
+<a href="https://www.chess.com/member/arshiamidos890" target="blank">
+<img align="center" src="https://cdn.icon-icons.com/icons2/789/PNG/128/chess_icon-icons.com_65163.png" alt="arshiamidos" height="20" width="20" />
+</a>   
 </p>
 </div>
