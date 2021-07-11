@@ -121,7 +121,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 <a href="https://www.chess.com/member/arshiamidos890" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/minds.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecast.svg" alt="arshiamidos" height="20" width="20" />
 </a>    
 <a href="https://soundcloud.com/arashmidos-arash" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arshiamidos" height="20" width="20" />
