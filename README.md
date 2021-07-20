@@ -123,6 +123,13 @@
 <a href="https://soundcloud.com/arashmidos-arash" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arshiamidos" height="20" width="20" />
 </a>
+
+<a href="https://revolut.me/arash" target="blank">
+<img align="center" src="https://simpleicons.org/icons/revolut.svg" alt="arshiamidos" height="20" width="20" />
+</a>   
+<a href="https://www.paypal.com/paypalme/ara58" target="blank">
+<img align="center" src="https://simpleicons.org/icons/paypal.svg" alt="arshiamidos" height="20" width="20" />
+</a>    
 <a href="https://www.chess.com/member/arash" target="blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/789/PNG/128/chess_icon-icons.com_65163.png" alt="arshiamidos" height="20" width="20" />
 </a>   
