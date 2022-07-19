@@ -7,7 +7,7 @@
 
 <!-- first row -->
 <p align="center">
-<a href="https://arshiamidos.github.io"><img src="https://camo.githubusercontent.com/38bf262e2c177202fedef68851784c63dad5bb64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6172736869616d69646f73"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Darshiamidos&longCache=true">
+<a href="https://arash-hacker.github.io"><img src="https://camo.githubusercontent.com/38bf262e2c177202fedef68851784c63dad5bb64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6172736869616d69646f73"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%arash-hacker&longCache=true">
 </a>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -21,16 +21,16 @@
 
 
 <!-- thropy -->
-<a href="https://arshiamidos.github.io">
+<a href="https://arash-hacker.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=arash-hacker&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://arshiamidos.github.io">
+<a align="center" href="https://arash-hacker.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=arash-hacker&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash-hacker&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 
@@ -87,55 +87,29 @@
 
 <!-- websites and link -->
 <p align="center">
-<a href="https://arshiamidos.github.io" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
-</a>
-<a href="https://medium.com/@arashmidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arshiamidos" height="20" width="20" />
+<a href="https://arash-hacker.github.io" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arash-hacker" height="20" width="20" />
 </a>
 <a href="https://linkedin.com/in/arash-aghajani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://twitter.com/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://twitch.tv/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://www.reddit.com/user/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://www.pinterest.de/arshiamidos/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-   
-<a href="https://www.discord.com/channels/784013344561561630" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://github.com/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://gitlab.com/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arash-hacker" height="20" width="20" />
 </a>
 <a href="https://t.me/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arash-hacker" height="20" width="20" />
 </a>
 <a href="https://open.spotify.com/user/27nmzpwwd5wwhxvirwxb7cnk0?si=yDCPfpUPRjiIQRtBJr0LfQ" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="arash-hacker" height="20" width="20" />
 </a> 
 <a href="https://soundcloud.com/arashmidos-arash" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arash-hacker" height="20" width="20" />
 </a>
-
 <a href="https://revolut.me/arash" target="blank">
-<img align="center" src="https://simpleicons.org/icons/revolut.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://simpleicons.org/icons/revolut.svg" alt="arash-hacker" height="20" width="20" />
 </a>   
 <a href="https://www.paypal.com/paypalme/ara58" target="blank">
-<img align="center" src="https://simpleicons.org/icons/paypal.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://simpleicons.org/icons/paypal.svg" alt="arash-hacker" height="20" width="20" />
 </a>    
 <a href="https://www.chess.com/member/arash" target="blank">
-<img align="center" src="https://cdn.icon-icons.com/icons2/789/PNG/128/chess_icon-icons.com_65163.png" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.icon-icons.com/icons2/789/PNG/128/chess_icon-icons.com_65163.png" alt="arash-hacker" height="20" width="20" />
 </a>   
 </p>
 </div>
