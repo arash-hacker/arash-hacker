@@ -47,7 +47,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
       - name: lines
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -65,13 +65,13 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Byron
+          user: arash-hacker
           template: classic
           base: activity, community
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           
       - name: iso_calendar
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/iso_calender.svg
           # You'll need to setup a personal token in your secrets.
@@ -80,7 +80,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Byron
+          user: arash-hacker
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -88,7 +88,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       - name: issue_pr_lang
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
@@ -97,7 +97,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Byron
+          user: arash-hacker
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -105,7 +105,7 @@ jobs:
           plugin_languages: yes
 
       - name: repositories
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: .metrics/repositories.svg
           # You'll need to setup a personal token in your secrets.
@@ -114,7 +114,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Byron
+          user: arash-hacker
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
