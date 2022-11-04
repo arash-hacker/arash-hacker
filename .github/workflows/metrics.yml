@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sponsors introduction
-        uses: arash-hacker/metrics@latest
+        uses: lowlighter/metrics@v3.28
         with:
           filename: .metrics/sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -56,7 +56,7 @@ jobs:
           plugin_lines: yes
 
       - name: acti_comm
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@v3.28
         with:
           filename: .metrics/acti_comm.svg
           # You'll need to setup a personal token in your secrets.
