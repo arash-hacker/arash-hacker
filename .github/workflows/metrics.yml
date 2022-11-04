@@ -31,6 +31,30 @@ jobs:
           plugin_achievements_display: detailed  # Use compact display
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
+      - name: Detailed report
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.detailed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://arash-hacker.github.io
+
+      - name: With worldmap
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.worldmap.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+          plugin_stargazers_worldmap_sample: 200
+
+
       - name: header
         uses: lowlighter/metrics@latest
         with:
