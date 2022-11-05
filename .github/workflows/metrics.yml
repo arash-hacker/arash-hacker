@@ -131,7 +131,7 @@ jobs:
       - name: Comment reactions
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.reactions.svg
+          filename: .metrics/reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_reactions: yes
