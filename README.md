@@ -133,7 +133,7 @@
 <a href="https://linkedin.com/in/arash-aghajani" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arash-hacker" height="20" width="20" />
 </a>
-<a href="https://t.me/arshiamidos" target="blank">
+<a href="https://t.me/arashhacker" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arash-hacker" height="20" width="20" />
 </a>
 <a href="https://open.spotify.com/user/27nmzpwwd5wwhxvirwxb7cnk0?si=yDCPfpUPRjiIQRtBJr0LfQ" target="blank">
