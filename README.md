@@ -109,12 +109,12 @@
 <a href="https://github.com/arash-hacker">
     <img align="top" width="49%" src="./.metrics/achievements.svg" />
 </a>
-<a href="https://github.com/arash-hacker">
+<!-- <a href="https://github.com/arash-hacker">
     <img align="top" width="49%" src="./.metrics/worldmap.svg" />
 </a>
 <a href="https://github.com/arash-hacker">
     <img align="top" width="49%" src="./.metrics/detailed.svg" />
-</a>
+</a> -->
 
 
 
