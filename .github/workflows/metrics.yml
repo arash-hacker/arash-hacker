@@ -34,7 +34,7 @@ jobs:
       - name: Detailed report
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.pagespeed.detailed.svg
+          filename: .metrics/detailed.svg
           token: NOT_NEEDED
           base: ""
           plugin_pagespeed: yes
@@ -45,7 +45,7 @@ jobs:
       - name: With worldmap
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stargazers.worldmap.svg
+          filename: .metrics/worldmap.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
