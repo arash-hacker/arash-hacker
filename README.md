@@ -68,7 +68,7 @@
 </p>
 
 
-<!-- dancy gifs 
+<!-- dancy gifs -->
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
@@ -81,7 +81,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
--->
+
 <br>
 <a href="https://github.com/arash-hacker">
   <img align="top" width="50%" src="./.metrics/header.svg" />
@@ -108,6 +108,12 @@
 
 <a href="https://github.com/arash-hacker">
     <img align="top" width="49%" src="./.metrics/achievements.svg" />
+</a>
+<a href="https://github.com/arash-hacker">
+    <img align="top" width="49%" src="./.metrics/worldmap.svg" />
+</a>
+<a href="https://github.com/arash-hacker">
+    <img align="top" width="49%" src="./.metrics/detailed.svg" />
 </a>
 
 
