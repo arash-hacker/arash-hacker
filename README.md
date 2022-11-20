@@ -20,7 +20,7 @@
     <!-- spotify -->
     <img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
     <!-- soundcloud -->
-    <img width="45%" src="https://soundcloud-last-song-ajeis2xzm-arshiamidos.vercel.app/api/hello" align="right"/>
+    <img width="45%" src="https://soundcloud-last-song.vercel.app/api/hello" align="right"/>
 </div>
 
 <!-- thropy -->
