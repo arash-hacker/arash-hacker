@@ -20,7 +20,10 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default"/>
 </p>
 
-
+<!-- soundcloud -->>
+<p align="center">
+    <img src="https://soundcloud-last-song-ajeis2xzm-arshiamidos.vercel.app/api/hello"/>
+</p>
 
 <!-- thropy -->
 <a href="https://arash-hacker.github.io">
