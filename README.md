@@ -19,7 +19,7 @@
     
 <div align="center" width="100%">
     <!-- chess.com profile -->
-    <img width="50%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="left"/>
+    <img width="47%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="left"/>
     <!-- chess.com last game -->
     <img width="49%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right"/>
 </div>
