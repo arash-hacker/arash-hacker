@@ -19,9 +19,9 @@
     
 <div align="center" width="100%">
     <!-- chess.com profile -->
-    <img width="47%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="left"/>
+    <img width="45%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="left"/>
     <!-- chess.com last game -->
-    <img width="49%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right"/>
+    <img width="45%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right"/>
 </div>
     
 <div align="center" width="100%" height="445px">
