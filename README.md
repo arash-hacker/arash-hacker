@@ -15,16 +15,13 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
 
-<!-- spotify -->
-<div>
-<p width="49%" align="left">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default"/>
+
+<p align="center">
+    <!-- spotify -->
+    <img width="49%" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
+    <!-- soundcloud -->
+    <img width="49%" src="https://soundcloud-last-song-ajeis2xzm-arshiamidos.vercel.app/api/hello" align="right"/>
 </p>
-<!-- soundcloud -->
-<p  width="49%" align="right">
-    <img src="https://soundcloud-last-song-ajeis2xzm-arshiamidos.vercel.app/api/hello"/>
-</p>
-</div>
 
 <!-- thropy -->
 <a href="https://arash-hacker.github.io">
