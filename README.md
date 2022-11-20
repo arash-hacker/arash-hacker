@@ -16,7 +16,7 @@
 <p>
 
 
-<div align="center" width="49%" height="445px">
+<div align="center" width="100%" height="445px">
     <!-- spotify -->
     <img width="45%" heigth="445px" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
     <!-- soundcloud -->
