@@ -16,12 +16,12 @@
 <p>
 
 <!-- spotify -->
-<p align="center">
+<p align="center" width="49%" align="left">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default"/>
 </p>
 
-<!-- soundcloud -->>
-<p align="center">
+<!-- soundcloud -->
+<p align="center" width="49%" align="right">
     <img src="https://soundcloud-last-song-ajeis2xzm-arshiamidos.vercel.app/api/hello"/>
 </p>
 
