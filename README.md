@@ -18,7 +18,7 @@
 
 <div align="center" width="100%" height="445px">
     <!-- spotify -->
-    <img width="59%" heigth="445px" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
+    <img width="50%" heigth="445px" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
     <!-- soundcloud -->
     <img width="41%" heigth="445px" src="https://soundcloud-last-song.vercel.app/api/hello" align="right"/>
 </div>
