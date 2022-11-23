@@ -16,19 +16,19 @@
 <p>
 
 
-    
-<div align="center" width="100%">
+<!-- chess -->    
+<div align="left" width="100%">
     <!-- chess.com profile -->
-    <img width="45%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" align="left"/>
+    <img width="49%" style="margin:0px;padding:0px" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" align="left"/>
     <!-- chess.com last game -->
-    <img width="45%" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right"/>
+    <img width="49%" style="margin:0px;padding:0px" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="left"/>
 </div>
     
-<div align="center" width="100%" height="445px">
+<div align="left" width="100%" height="445px">
     <!-- spotify -->
-    <img width="47%" heigth="445px" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
+    <img width="49%" style="margin:0px;padding:0px" heigth="445px" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
     <!-- soundcloud -->
-    <img width="43%" heigth="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right"/>
+    <img width="49%" style="margin:0px;padding:0px" heigth="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right"/>
 </div>
 
 <!-- thropy -->
