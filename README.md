@@ -146,7 +146,7 @@
 <a href="https://open.spotify.com/user/27nmzpwwd5wwhxvirwxb7cnk0?si=yDCPfpUPRjiIQRtBJr0LfQ" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="arash-hacker" height="20" width="20" />
 </a> 
-<a href="https://soundcloud.com/arashmidos-arash" target="blank">
+<a href="https://soundcloud.com/arash-hacker" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arash-hacker" height="20" width="20" />
 </a>
 <a href="https://revolut.me/arash" target="blank">
