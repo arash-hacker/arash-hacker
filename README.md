@@ -140,6 +140,9 @@
 <a href="https://linkedin.com/in/arash-aghajani" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arash-hacker" height="20" width="20" />
 </a>
+    <a rel="me" href="https://mastodon.social/@arash_hacker">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="arash-hacker" height="20" width="20" />
+    </a>
 <a href="https://t.me/arashhacker" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arash-hacker" height="20" width="20" />
 </a>
@@ -155,6 +158,7 @@
 <a href="https://www.paypal.com/paypalme/ara58" target="blank">
 <img align="center" src="https://simpleicons.org/icons/paypal.svg" alt="arash-hacker" height="20" width="20" />
 </a>    
+
 <a href="https://www.chess.com/member/arash" target="blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/789/PNG/128/chess_icon-icons.com_65163.png" alt="arash-hacker" height="20" width="20" />
 </a>
