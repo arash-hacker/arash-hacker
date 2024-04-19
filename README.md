@@ -7,12 +7,12 @@
 
 <!-- first row -->
 <p align="center">
-<a href="https://arash-hacker.github.io">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/arash-hacker?style=social">
-</a>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p>
+    <img src="https://github.com/arash-hacker/arash-hacker/assets/6451804/0617090c-0b0d-4475-b42c-fe64997c9113" width="30"/>    
+    <a href="https://arash-hacker.github.io">
+        <img alt="GitHub" src="https://img.shields.io/github/followers/arash-hacker?style=social">
+    </a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
 
 
 <!-- chess -->    
