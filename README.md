@@ -118,17 +118,9 @@
 <a href="https://github.com/arash-hacker">
     <img align="top" width="49%" src="./.metrics/achievements.svg" />
 </a>
-<!-- <a href="https://github.com/arash-hacker">
-    <img align="top" width="49%" src="./.metrics/worldmap.svg" />
+<a href="https://github.com/arash-hacker?id=flags" align="center" width="100%">
+    <img src="https://s11.flagcounter.com/countxl/h7A8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="" border="0">
 </a>
-<a href="https://github.com/arash-hacker">
-    <img align="top" width="49%" src="./.metrics/detailed.svg" />
-</a> 
--->
-
-    
-
-
 
 
 <!-- websites and link -->
