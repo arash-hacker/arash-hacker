@@ -151,8 +151,9 @@
 <a href="https://www.chess.com/member/arash" target="blank">
 <img align="center" src="https://cdn.icon-icons.com/icons2/789/PNG/128/chess_icon-icons.com_65163.png" alt="arash-hacker" height="20" width="20" />
 </a>
-<a href="arash-hacker" target="blank">
-<img align="center" src="https://simpleicons.org/icons/playstation.svg" alt="arash-hacker" height="20" width="20" />
+<a href="https://humanbenchmark.com/users/6628c44e53a4a6000806de5b" target="blank">
+<img align="center" src="https://simpleicons.org/icons/alienware.svg" alt="arash-hacker" height="20" width="20" />
 </a>
+
 </p>
 </div>
