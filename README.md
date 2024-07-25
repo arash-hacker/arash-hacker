@@ -25,7 +25,7 @@
     
 <div align="left" width="100%" height="445px">
     <!-- spotify -->
-    <img width="44%" style="margin:0px;padding:0px" heigth="445px" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
     <!-- soundcloud -->
     <img width="40%" style="margin:0px;padding:0px" heigth="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right"/>
 </div>
