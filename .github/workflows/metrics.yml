@@ -10,26 +10,26 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Sponsors introduction
-        uses: lowlighter/metrics@latest
-        with:
-          filename: .metrics/sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
+      # - name: Sponsors introduction
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: .metrics/sponsors.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_sponsors: yes
 
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: .metrics/achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: arash-hacker
-          base: achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
-          plugin_achievements_display: detailed  # Use compact display
-          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: .metrics/achievements.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     committer_token: ${{ secrets.GITHUB_TOKEN }}
+      #     user: arash-hacker
+      #     base: achievements
+      #     plugin_achievements: yes
+      #     plugin_achievements_threshold: B      # Display achievements with rank B or higher
+      #     plugin_achievements_secrets: yes      # Display unlocked secrets achievements
+      #     plugin_achievements_display: detailed  # Use compact display
+      #     plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
       - name: Detailed report
         uses: lowlighter/metrics@latest
