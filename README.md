@@ -15,7 +15,7 @@
 </p>
 
 
-<!-- chess -->    
+<!-- chesss -->    
 <div align="left" width="100%">
     <!-- chess.com profile -->
     <img width="44%" style="margin:0px;padding:0px" heigth="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" align="left"/>
