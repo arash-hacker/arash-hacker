@@ -111,10 +111,10 @@
     <img align="top" width="49%" src="./.metrics/issue_pr_lang.svg" />
 </a>
 <a href="https://github.com/arash-hacker">
-    <img align="top" width="50%" src="./.metrics/detailed.svg" />
+    <img align="top" width="49%" src="./.metrics/detailed.svg" />
 </a>
 <a href="https://github.com/arash-hacker">
-    <img align="top" width="50%" src="./sponsors.svg" />
+    <img align="top" width="49%" src="./sponsors.svg" />
 </a>
 
 <a href="https://github.com/arash-hacker">
