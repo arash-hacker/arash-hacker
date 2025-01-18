@@ -157,7 +157,7 @@
 <img align="center" src="https://simpleicons.org/icons/alienware.svg" alt="arash-hacker" height="20" width="20" />
 </a>
 <a href="https://steamcommunity.com/id/arash_hacker/badges/" target="blank">
-<img align="center" src="https://simpleicons.org/icons/steam" alt="arash-hacker" height="20" width="20" />
+<img align="center" src="https://simpleicons.org/icons/steam.svg" alt="arash-hacker" height="20" width="20" />
 </a>
 
 
